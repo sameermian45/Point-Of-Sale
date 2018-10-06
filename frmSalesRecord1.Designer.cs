@@ -1,0 +1,463 @@
+﻿namespace Sales_and_Inventory_System__Gadgets_Shop_
+{
+    partial class frmSalesRecord1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmSalesRecord1));
+            this.TabControl1 = new System.Windows.Forms.TabControl();
+            this.TabPage1 = new System.Windows.Forms.TabPage();
+            this.label9 = new System.Windows.Forms.Label();
+            this.DataGridView1 = new System.Windows.Forms.DataGridView();
+            this.GroupBox2 = new System.Windows.Forms.GroupBox();
+            this.textBox7 = new System.Windows.Forms.TextBox();
+            this.label10 = new System.Windows.Forms.Label();
+            this.Button3 = new System.Windows.Forms.Button();
+            this.Button1 = new System.Windows.Forms.Button();
+            this.Button2 = new System.Windows.Forms.Button();
+            this.GroupBox1 = new System.Windows.Forms.GroupBox();
+            this.dtpInvoiceDateTo = new System.Windows.Forms.DateTimePicker();
+            this.dtpInvoiceDateFrom = new System.Windows.Forms.DateTimePicker();
+            this.Label3 = new System.Windows.Forms.Label();
+            this.Label4 = new System.Windows.Forms.Label();
+            this.TabPage3 = new System.Windows.Forms.TabPage();
+            this.GroupBox4 = new System.Windows.Forms.GroupBox();
+            this.TextBox4 = new System.Windows.Forms.TextBox();
+            this.TextBox5 = new System.Windows.Forms.TextBox();
+            this.TextBox6 = new System.Windows.Forms.TextBox();
+            this.Label6 = new System.Windows.Forms.Label();
+            this.Label7 = new System.Windows.Forms.Label();
+            this.Label8 = new System.Windows.Forms.Label();
+            this.DataGridView3 = new System.Windows.Forms.DataGridView();
+            this.GroupBox8 = new System.Windows.Forms.GroupBox();
+            this.Button7 = new System.Windows.Forms.Button();
+            this.Button9 = new System.Windows.Forms.Button();
+            this.GroupBox9 = new System.Windows.Forms.GroupBox();
+            this.cmbCustomerName = new System.Windows.Forms.ComboBox();
+            this.Label16 = new System.Windows.Forms.Label();
+            this.TabControl1.SuspendLayout();
+            this.TabPage1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.DataGridView1)).BeginInit();
+            this.GroupBox2.SuspendLayout();
+            this.GroupBox1.SuspendLayout();
+            this.TabPage3.SuspendLayout();
+            this.GroupBox4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.DataGridView3)).BeginInit();
+            this.GroupBox8.SuspendLayout();
+            this.GroupBox9.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // TabControl1
+            // 
+            this.TabControl1.Controls.Add(this.TabPage1);
+            this.TabControl1.Controls.Add(this.TabPage3);
+            this.TabControl1.Location = new System.Drawing.Point(-1, 0);
+            this.TabControl1.Name = "TabControl1";
+            this.TabControl1.SelectedIndex = 0;
+            this.TabControl1.Size = new System.Drawing.Size(1312, 665);
+            this.TabControl1.TabIndex = 1;
+            this.TabControl1.Click += new System.EventHandler(this.TabControl1_Click);
+            // 
+            // TabPage1
+            // 
+            this.TabPage1.BackColor = System.Drawing.Color.Teal;
+            this.TabPage1.Controls.Add(this.label9);
+            this.TabPage1.Controls.Add(this.DataGridView1);
+            this.TabPage1.Controls.Add(this.GroupBox2);
+            this.TabPage1.Controls.Add(this.GroupBox1);
+            this.TabPage1.Location = new System.Drawing.Point(4, 26);
+            this.TabPage1.Name = "TabPage1";
+            this.TabPage1.Padding = new System.Windows.Forms.Padding(3);
+            this.TabPage1.Size = new System.Drawing.Size(1304, 635);
+            this.TabPage1.TabIndex = 0;
+            this.TabPage1.Text = "By Order Date";
+            this.TabPage1.Click += new System.EventHandler(this.TabPage1_Click);
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(1177, 7);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(39, 17);
+            this.label9.TabIndex = 22;
+            this.label9.Text = "label9";
+            this.label9.Visible = false;
+            // 
+            // DataGridView1
+            // 
+            this.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.DataGridView1.Location = new System.Drawing.Point(8, 99);
+            this.DataGridView1.MultiSelect = false;
+            this.DataGridView1.Name = "DataGridView1";
+            this.DataGridView1.Size = new System.Drawing.Size(1288, 540);
+            this.DataGridView1.TabIndex = 20;
+            this.DataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DataGridView1_CellContentClick);
+            this.DataGridView1.RowHeaderMouseClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.DataGridView1_RowHeaderMouseClick);
+            this.DataGridView1.RowPostPaint += new System.Windows.Forms.DataGridViewRowPostPaintEventHandler(this.DataGridView1_RowPostPaint);
+            // 
+            // GroupBox2
+            // 
+            this.GroupBox2.Controls.Add(this.textBox7);
+            this.GroupBox2.Controls.Add(this.label10);
+            this.GroupBox2.Controls.Add(this.Button3);
+            this.GroupBox2.Controls.Add(this.Button1);
+            this.GroupBox2.Controls.Add(this.Button2);
+            this.GroupBox2.Location = new System.Drawing.Point(354, 7);
+            this.GroupBox2.Name = "GroupBox2";
+            this.GroupBox2.Size = new System.Drawing.Size(671, 87);
+            this.GroupBox2.TabIndex = 19;
+            this.GroupBox2.TabStop = false;
+            this.GroupBox2.Enter += new System.EventHandler(this.GroupBox2_Enter);
+            // 
+            // textBox7
+            // 
+            this.textBox7.Location = new System.Drawing.Point(30, 44);
+            this.textBox7.Name = "textBox7";
+            this.textBox7.Size = new System.Drawing.Size(278, 24);
+            this.textBox7.TabIndex = 4;
+            this.textBox7.TextChanged += new System.EventHandler(this.textBox7_TextChanged);
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(69, 17);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(117, 17);
+            this.label10.TabIndex = 3;
+            this.label10.Text = "Search By Recipt ID";
+            // 
+            // Button3
+            // 
+            this.Button3.Font = new System.Drawing.Font("Palatino Linotype", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Button3.Location = new System.Drawing.Point(560, 26);
+            this.Button3.Name = "Button3";
+            this.Button3.Size = new System.Drawing.Size(94, 40);
+            this.Button3.TabIndex = 2;
+            this.Button3.Text = "&Export Excel";
+            this.Button3.UseVisualStyleBackColor = true;
+            this.Button3.Click += new System.EventHandler(this.Button3_Click);
+            // 
+            // Button1
+            // 
+            this.Button1.Font = new System.Drawing.Font("Palatino Linotype", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Button1.Location = new System.Drawing.Point(360, 26);
+            this.Button1.Name = "Button1";
+            this.Button1.Size = new System.Drawing.Size(94, 40);
+            this.Button1.TabIndex = 0;
+            this.Button1.Text = "&Get Data";
+            this.Button1.UseVisualStyleBackColor = true;
+            this.Button1.Click += new System.EventHandler(this.Button1_Click);
+            // 
+            // Button2
+            // 
+            this.Button2.Font = new System.Drawing.Font("Palatino Linotype", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Button2.Location = new System.Drawing.Point(460, 26);
+            this.Button2.Name = "Button2";
+            this.Button2.Size = new System.Drawing.Size(94, 40);
+            this.Button2.TabIndex = 1;
+            this.Button2.Text = "&Reset";
+            this.Button2.UseVisualStyleBackColor = true;
+            this.Button2.Click += new System.EventHandler(this.Button2_Click);
+            // 
+            // GroupBox1
+            // 
+            this.GroupBox1.Controls.Add(this.dtpInvoiceDateTo);
+            this.GroupBox1.Controls.Add(this.dtpInvoiceDateFrom);
+            this.GroupBox1.Controls.Add(this.Label3);
+            this.GroupBox1.Controls.Add(this.Label4);
+            this.GroupBox1.Location = new System.Drawing.Point(8, 6);
+            this.GroupBox1.Name = "GroupBox1";
+            this.GroupBox1.Size = new System.Drawing.Size(331, 87);
+            this.GroupBox1.TabIndex = 18;
+            this.GroupBox1.TabStop = false;
+            this.GroupBox1.Enter += new System.EventHandler(this.GroupBox1_Enter);
+            // 
+            // dtpInvoiceDateTo
+            // 
+            this.dtpInvoiceDateTo.CustomFormat = "dd/MMM/yyyy";
+            this.dtpInvoiceDateTo.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.dtpInvoiceDateTo.Location = new System.Drawing.Point(190, 42);
+            this.dtpInvoiceDateTo.Name = "dtpInvoiceDateTo";
+            this.dtpInvoiceDateTo.Size = new System.Drawing.Size(120, 24);
+            this.dtpInvoiceDateTo.TabIndex = 107;
+            // 
+            // dtpInvoiceDateFrom
+            // 
+            this.dtpInvoiceDateFrom.CustomFormat = "dd/MMM/yyyy";
+            this.dtpInvoiceDateFrom.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.dtpInvoiceDateFrom.Location = new System.Drawing.Point(24, 42);
+            this.dtpInvoiceDateFrom.Name = "dtpInvoiceDateFrom";
+            this.dtpInvoiceDateFrom.Size = new System.Drawing.Size(120, 24);
+            this.dtpInvoiceDateFrom.TabIndex = 106;
+            // 
+            // Label3
+            // 
+            this.Label3.AutoSize = true;
+            this.Label3.Font = new System.Drawing.Font("Palatino Linotype", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Label3.Location = new System.Drawing.Point(20, 18);
+            this.Label3.Name = "Label3";
+            this.Label3.Size = new System.Drawing.Size(47, 21);
+            this.Label3.TabIndex = 9;
+            this.Label3.Text = "From";
+            // 
+            // Label4
+            // 
+            this.Label4.AutoSize = true;
+            this.Label4.Font = new System.Drawing.Font("Palatino Linotype", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Label4.Location = new System.Drawing.Point(186, 18);
+            this.Label4.Name = "Label4";
+            this.Label4.Size = new System.Drawing.Size(28, 21);
+            this.Label4.TabIndex = 10;
+            this.Label4.Text = "To";
+            // 
+            // TabPage3
+            // 
+            this.TabPage3.BackColor = System.Drawing.Color.Teal;
+            this.TabPage3.Controls.Add(this.GroupBox4);
+            this.TabPage3.Controls.Add(this.DataGridView3);
+            this.TabPage3.Controls.Add(this.GroupBox8);
+            this.TabPage3.Controls.Add(this.GroupBox9);
+            this.TabPage3.Location = new System.Drawing.Point(4, 26);
+            this.TabPage3.Name = "TabPage3";
+            this.TabPage3.Padding = new System.Windows.Forms.Padding(3);
+            this.TabPage3.Size = new System.Drawing.Size(1304, 635);
+            this.TabPage3.TabIndex = 2;
+            this.TabPage3.Text = "By Customer";
+            this.TabPage3.Click += new System.EventHandler(this.TabPage3_Click);
+            // 
+            // GroupBox4
+            // 
+            this.GroupBox4.Controls.Add(this.TextBox4);
+            this.GroupBox4.Controls.Add(this.TextBox5);
+            this.GroupBox4.Controls.Add(this.TextBox6);
+            this.GroupBox4.Controls.Add(this.Label6);
+            this.GroupBox4.Controls.Add(this.Label7);
+            this.GroupBox4.Controls.Add(this.Label8);
+            this.GroupBox4.Location = new System.Drawing.Point(1029, 91);
+            this.GroupBox4.Name = "GroupBox4";
+            this.GroupBox4.Size = new System.Drawing.Size(267, 142);
+            this.GroupBox4.TabIndex = 29;
+            this.GroupBox4.TabStop = false;
+            this.GroupBox4.Text = "Total";
+            this.GroupBox4.Visible = false;
+            // 
+            // TextBox4
+            // 
+            this.TextBox4.Location = new System.Drawing.Point(127, 99);
+            this.TextBox4.Name = "TextBox4";
+            this.TextBox4.Size = new System.Drawing.Size(125, 24);
+            this.TextBox4.TabIndex = 25;
+            // 
+            // TextBox5
+            // 
+            this.TextBox5.Location = new System.Drawing.Point(127, 62);
+            this.TextBox5.Name = "TextBox5";
+            this.TextBox5.Size = new System.Drawing.Size(125, 24);
+            this.TextBox5.TabIndex = 25;
+            // 
+            // TextBox6
+            // 
+            this.TextBox6.Location = new System.Drawing.Point(127, 25);
+            this.TextBox6.Name = "TextBox6";
+            this.TextBox6.Size = new System.Drawing.Size(125, 24);
+            this.TextBox6.TabIndex = 24;
+            // 
+            // Label6
+            // 
+            this.Label6.AutoSize = true;
+            this.Label6.Font = new System.Drawing.Font("Palatino Linotype", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Label6.Location = new System.Drawing.Point(18, 102);
+            this.Label6.Name = "Label6";
+            this.Label6.Size = new System.Drawing.Size(90, 18);
+            this.Label6.TabIndex = 23;
+            this.Label6.Text = "Due Payment";
+            // 
+            // Label7
+            // 
+            this.Label7.AutoSize = true;
+            this.Label7.Font = new System.Drawing.Font("Palatino Linotype", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Label7.Location = new System.Drawing.Point(18, 66);
+            this.Label7.Name = "Label7";
+            this.Label7.Size = new System.Drawing.Size(96, 18);
+            this.Label7.TabIndex = 23;
+            this.Label7.Text = "Total Payment";
+            // 
+            // Label8
+            // 
+            this.Label8.AutoSize = true;
+            this.Label8.Font = new System.Drawing.Font("Palatino Linotype", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Label8.Location = new System.Drawing.Point(18, 31);
+            this.Label8.Name = "Label8";
+            this.Label8.Size = new System.Drawing.Size(58, 18);
+            this.Label8.TabIndex = 22;
+            this.Label8.Text = "Amount";
+            // 
+            // DataGridView3
+            // 
+            this.DataGridView3.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.DataGridView3.Location = new System.Drawing.Point(6, 99);
+            this.DataGridView3.MultiSelect = false;
+            this.DataGridView3.Name = "DataGridView3";
+            this.DataGridView3.Size = new System.Drawing.Size(1017, 540);
+            this.DataGridView3.TabIndex = 28;
+            this.DataGridView3.RowHeaderMouseClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.DataGridView3_RowHeaderMouseClick);
+            this.DataGridView3.RowPostPaint += new System.Windows.Forms.DataGridViewRowPostPaintEventHandler(this.DataGridView3_RowPostPaint);
+            // 
+            // GroupBox8
+            // 
+            this.GroupBox8.Controls.Add(this.Button7);
+            this.GroupBox8.Controls.Add(this.Button9);
+            this.GroupBox8.Location = new System.Drawing.Point(354, 7);
+            this.GroupBox8.Name = "GroupBox8";
+            this.GroupBox8.Size = new System.Drawing.Size(236, 87);
+            this.GroupBox8.TabIndex = 26;
+            this.GroupBox8.TabStop = false;
+            // 
+            // Button7
+            // 
+            this.Button7.Font = new System.Drawing.Font("Palatino Linotype", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Button7.Location = new System.Drawing.Point(119, 29);
+            this.Button7.Name = "Button7";
+            this.Button7.Size = new System.Drawing.Size(94, 40);
+            this.Button7.TabIndex = 2;
+            this.Button7.Text = "&Export Excel";
+            this.Button7.UseVisualStyleBackColor = true;
+            this.Button7.Click += new System.EventHandler(this.Button7_Click);
+            // 
+            // Button9
+            // 
+            this.Button9.Font = new System.Drawing.Font("Palatino Linotype", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Button9.Location = new System.Drawing.Point(19, 29);
+            this.Button9.Name = "Button9";
+            this.Button9.Size = new System.Drawing.Size(94, 40);
+            this.Button9.TabIndex = 1;
+            this.Button9.Text = "&Reset";
+            this.Button9.UseVisualStyleBackColor = true;
+            this.Button9.Click += new System.EventHandler(this.Button9_Click);
+            // 
+            // GroupBox9
+            // 
+            this.GroupBox9.Controls.Add(this.cmbCustomerName);
+            this.GroupBox9.Controls.Add(this.Label16);
+            this.GroupBox9.Location = new System.Drawing.Point(8, 6);
+            this.GroupBox9.Name = "GroupBox9";
+            this.GroupBox9.Size = new System.Drawing.Size(340, 87);
+            this.GroupBox9.TabIndex = 25;
+            this.GroupBox9.TabStop = false;
+            // 
+            // cmbCustomerName
+            // 
+            this.cmbCustomerName.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Suggest;
+            this.cmbCustomerName.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
+            this.cmbCustomerName.FormattingEnabled = true;
+            this.cmbCustomerName.Location = new System.Drawing.Point(24, 45);
+            this.cmbCustomerName.Name = "cmbCustomerName";
+            this.cmbCustomerName.Size = new System.Drawing.Size(301, 25);
+            this.cmbCustomerName.TabIndex = 25;
+            this.cmbCustomerName.SelectedIndexChanged += new System.EventHandler(this.cmbCustomerName_SelectedIndexChanged);
+            this.cmbCustomerName.Format += new System.Windows.Forms.ListControlConvertEventHandler(this.cmbCustomerName_Format);
+            // 
+            // Label16
+            // 
+            this.Label16.AutoSize = true;
+            this.Label16.Font = new System.Drawing.Font("Palatino Linotype", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Label16.Location = new System.Drawing.Point(20, 18);
+            this.Label16.Name = "Label16";
+            this.Label16.Size = new System.Drawing.Size(107, 18);
+            this.Label16.TabIndex = 9;
+            this.Label16.Text = "Customer Name";
+            // 
+            // frmSalesRecord1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.ClientSize = new System.Drawing.Size(1311, 664);
+            this.Controls.Add(this.TabControl1);
+            this.Font = new System.Drawing.Font("Palatino Linotype", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.MaximizeBox = false;
+            this.Name = "frmSalesRecord1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Sales Record";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmSalesRecord_FormClosing);
+            this.Load += new System.EventHandler(this.frmSalesRecord_Load);
+            this.TabControl1.ResumeLayout(false);
+            this.TabPage1.ResumeLayout(false);
+            this.TabPage1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.DataGridView1)).EndInit();
+            this.GroupBox2.ResumeLayout(false);
+            this.GroupBox2.PerformLayout();
+            this.GroupBox1.ResumeLayout(false);
+            this.GroupBox1.PerformLayout();
+            this.TabPage3.ResumeLayout(false);
+            this.GroupBox4.ResumeLayout(false);
+            this.GroupBox4.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.DataGridView3)).EndInit();
+            this.GroupBox8.ResumeLayout(false);
+            this.GroupBox9.ResumeLayout(false);
+            this.GroupBox9.PerformLayout();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        internal System.Windows.Forms.TabControl TabControl1;
+        internal System.Windows.Forms.TabPage TabPage1;
+        internal System.Windows.Forms.DataGridView DataGridView1;
+        internal System.Windows.Forms.GroupBox GroupBox2;
+        internal System.Windows.Forms.Button Button3;
+        internal System.Windows.Forms.Button Button1;
+        internal System.Windows.Forms.Button Button2;
+        internal System.Windows.Forms.GroupBox GroupBox1;
+        internal System.Windows.Forms.DateTimePicker dtpInvoiceDateTo;
+        internal System.Windows.Forms.DateTimePicker dtpInvoiceDateFrom;
+        internal System.Windows.Forms.Label Label3;
+        internal System.Windows.Forms.Label Label4;
+        internal System.Windows.Forms.TabPage TabPage3;
+        internal System.Windows.Forms.GroupBox GroupBox4;
+        internal System.Windows.Forms.TextBox TextBox4;
+        internal System.Windows.Forms.TextBox TextBox5;
+        internal System.Windows.Forms.TextBox TextBox6;
+        internal System.Windows.Forms.Label Label6;
+        internal System.Windows.Forms.Label Label7;
+        internal System.Windows.Forms.Label Label8;
+        internal System.Windows.Forms.DataGridView DataGridView3;
+        internal System.Windows.Forms.GroupBox GroupBox8;
+        internal System.Windows.Forms.Button Button7;
+        internal System.Windows.Forms.Button Button9;
+        internal System.Windows.Forms.GroupBox GroupBox9;
+        internal System.Windows.Forms.ComboBox cmbCustomerName;
+        internal System.Windows.Forms.Label Label16;
+        public System.Windows.Forms.Label label9;
+        private System.Windows.Forms.TextBox textBox7;
+        private System.Windows.Forms.Label label10;
+    }
+}

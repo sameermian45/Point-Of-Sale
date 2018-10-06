@@ -1,0 +1,79 @@
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\bin\Debug\Sales and Inventory System (Gadgets Shop).exe
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\bin\Debug\Sales and Inventory System (Gadgets Shop).pdb
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmAbout.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmChangePassword.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmLogin.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmRecoveryPassword.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmRegisteredUsersDetails.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmUserRegistration.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.Properties.Resources.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales and Inventory System (Gadgets Shop).csproj.GenerateResource.Cache
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales and Inventory System (Gadgets Shop).exe
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales and Inventory System (Gadgets Shop).pdb
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomers.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmMainMenu.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCategory.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCompany.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCompanyRecord.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSplash.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCategoryRecord.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersRecord.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersRecord1.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProduct.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProductsRecord.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales and Inventory System (Gadgets Shop).csprojResolveAssemblyReference.cache
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProductsRecord1.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmConfig.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmConfigRecord.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStock.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmConfigRecord1.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStockRecord.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStockRecord1.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmInvoice.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersRecord2.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\bin\Debug\Sales and Inventory System (Gadgets Shop).exe.config
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmInvoiceReport.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmLoginDetails.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalesRecord.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalesRecord1.resources
+C:\Users\Raj\Desktop\Sales and Inventory System (Gadgets Shop)\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalesReport.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\bin\Debug\Sales and Inventory System (Gadgets Shop).exe.config
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales and Inventory System (Gadgets Shop).exe
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales and Inventory System (Gadgets Shop).pdb
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\bin\Debug\Sales and Inventory System (Gadgets Shop).exe
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\bin\Debug\Sales and Inventory System (Gadgets Shop).pdb
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales and Inventory System (Gadgets Shop).csprojResolveAssemblyReference.cache
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmAbout.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCategory.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCategoryRecord.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmChangePassword.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCompany.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCompanyRecord.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmConfig.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmConfigRecord.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmConfigRecord1.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomers.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersRecord.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersRecord1.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersRecord2.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersReport.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmInvoiceReport.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmLogin.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmLoginDetails.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmMainMenu.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProduct.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProductsRecord.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProductsRecord1.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmRecoveryPassword.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmRegisteredUsersDetails.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmInvoice.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalesRecord.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalesRecord1.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalesReport.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSplash.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStock.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStockRecord.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStockRecord1.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmUserRegistration.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.Properties.Resources.resources
+C:\Users\Raj\Desktop\POS\Sales and Inventory System (Gadgets Shop)\obj\x86\Debug\Sales and Inventory System (Gadgets Shop).csproj.GenerateResource.Cache

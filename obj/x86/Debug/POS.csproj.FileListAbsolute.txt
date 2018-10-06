@@ -1,0 +1,55 @@
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\bin\Debug\Sales and Inventory System (Gadgets Shop).exe.config
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales and Inventory System (Gadgets Shop).exe
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales and Inventory System (Gadgets Shop).pdb
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\bin\Debug\Sales and Inventory System (Gadgets Shop).exe
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\bin\Debug\Sales and Inventory System (Gadgets Shop).pdb
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.AdvanceSalary.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.Attandance.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmAddStaff.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmAllBalance.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmBalance.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmBillUpdate.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCategory.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCategoryRecord.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmChangePassword.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmDemand.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmDemandRecord.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmExpences.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmExpenseRecord.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmjurnalledger.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmMsdn.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmOrder.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmpersonalUse.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProductSold.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmRecoveryPassword.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalaryRecord.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalesRecord2.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStaff1Record.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStaffsalary.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStockRecord.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStockReport.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSuppliersRecord.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSuppliersRecord1.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProductsRecord.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProductsRecord1.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSubCategory.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSubCategoryRecord.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSuppliers.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmInvoiceReport.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmLogin.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmLoginDetails.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmMainMenu.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProduct.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmExpenseRecord1.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSales.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalesRecord1.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalesReport.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSplash.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStock.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStockRecord1.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSuppliersReport.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmupdatemdsn.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmUserRecord1.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.ItemSize.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.Properties.Resources.resources
+C:\Users\zahid\Desktop\Pharmacy with cutomer area\POS\Point Of Sale\obj\x86\Debug\POS.csproj.GenerateResource.Cache
